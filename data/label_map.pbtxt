@@ -1,0 +1,54 @@
+item {
+  id: 1
+  name: 'bottle'
+}
+
+item {
+  id: 2
+  name: 'coffeemugblue'
+}
+
+item {
+  id: 3
+  name: 'notebook'
+}
+
+item {
+  id: 4
+  name: 'multiutilitykit'
+}
+
+item {
+  id: 5
+  name: 'tabletop'
+}
+
+item {
+  id: 6
+  name: 'shantanukeychain'
+}
+
+item {
+  id: 7
+  name: 'pen'
+}
+
+item {
+  id: 8
+  name: 'headphone'
+}
+
+item {
+  id: 9
+  name: 'passportholder'
+}
+
+item {
+  id: 10
+  name: 'swarovskispeaker'
+}
+
+item {
+  id: 11
+  name: 'usbcharger'
+}

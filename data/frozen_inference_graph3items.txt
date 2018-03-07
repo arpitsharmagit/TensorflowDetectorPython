@@ -1,0 +1,19 @@
+item {
+  id: 1
+  name: 'bottle'
+}
+
+item {
+  id: 2
+  name: 'coffeemugbluew'
+}
+
+item {
+  id: 3
+  name: 'multiutilitykit'
+}
+
+item {
+  id: 4
+  name: 'passportholder'
+}
