@@ -1,0 +1,39 @@
+item {
+  id: 1
+  name: 'bottle'
+}
+
+item {
+  id: 2
+  name: 'pebblespeaker'
+}
+
+item {
+  id: 3
+  name: 'notebook'
+}
+
+item {
+  id: 4
+  name: 'cap'
+}
+
+item {
+  id: 5
+  name: 'greenbottle'
+}
+
+item {
+  id: 6
+  name: 'shantanukeychain'
+}
+
+item {
+  id: 7
+  name: 'redsipper'
+}
+
+item {
+  id: 8
+  name: 'headphone'
+}
